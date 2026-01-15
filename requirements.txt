@@ -1,0 +1,11 @@
+# Web Framework
+streamlit==1.31.0
+
+# API Requests & Connectivity
+requests==2.31.0
+
+# Data Manipulation & Tables
+pandas==2.2.0
+
+# Data Visualization & Radar Charts
+plotly==5.18.0
