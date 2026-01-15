@@ -1,6 +1,6 @@
 # 📊 Pokémon Data Analytics & ETL Dashboard
 
-```[App Link](https://pokedex-analytics-app.streamlit.app/)``` 
+[App Link](https://pokedex-analytics-app.streamlit.app/)
 
 A professional data-driven application that demonstrates the lifecycle of data from an external REST API to a structured analytical dashboard.
 
@@ -68,5 +68,6 @@ The project was built in three distinct phases:
 * Comparison Sharing: Generate a unique URL so users can share their "Head-to-Head" comparison results.
 
 Built by Sonu Sourav | 2026 Portfolio Project
+
 
 
